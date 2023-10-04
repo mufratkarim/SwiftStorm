@@ -3,7 +3,7 @@
 //  SwiftStorm
 //
 //  Created by Mufrat Aritra on 01/09/2022.
-//  Copyright © 2023 MKA. All rights reserved.
+//  Copyright © 2023 Lego Code. All rights reserved.
 //
 
 import UIKit

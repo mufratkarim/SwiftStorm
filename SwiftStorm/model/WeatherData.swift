@@ -2,8 +2,8 @@
 //  WeatherData.swift
 //  SwiftStorm
 //
-//  Created by Mufrat Karim Aritra on 10/1/23.
-//  Copyright © 2023 App Brewery. All rights reserved.
+//  Created by Mufrat Aritra on 01/09/2022.
+//  Copyright © 2023 Lego Code. All rights reserved.
 //
 
 import Foundation

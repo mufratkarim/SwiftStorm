@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SwiftStorm
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Mufrat Aritra on 01/09/2022.
+//  Copyright © 2023 Lego Code. All rights reserved.
 //
 
 import UIKit
