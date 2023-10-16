@@ -1,3 +1,4 @@
+# Swift Storm - Your Weather Companion 🌦
 Swift Storm is not just another weather app. It's built with precision and attention to detail, offering a unique dark-mode experience with dedicated vector image assets.
 
 # Features
