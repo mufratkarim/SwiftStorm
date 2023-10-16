@@ -1,11 +1,18 @@
-# Features
+Swift Storm is not just another weather app. It's built with precision and attention to detail, offering a unique dark-mode experience with dedicated vector image assets.
 
-1. Core Location
-2. Codable
-3. URLSession
-4. Delegate Pattern (MVC)
-5. Grand Central Dispatch
-6. Swift Protocols & Extensions
+# Features
+- Dark Mode Adaptability: Separate vector images for an independent dark-mode experience.
+- User Input: Utilizes UITextField for user-based weather searches.
+- Networking: Makes use of URLSession for HTTP requests and fetches data seamlessly.
+- JSON: Incorporates native Encodable and Decodable protocols for JSON parsing.
+- Location: Employs Core Location to fetch the current location using the device's GPS.
+
+# Technologies & Techniques:
+- Delegate Pattern
+- Swift Protocols & Extensions
+- guard keyword in Swift
+- Computed properties, closures & completion handlers
+- Grand Central Dispatch for main thread operations
 
 # Screenshots
 
